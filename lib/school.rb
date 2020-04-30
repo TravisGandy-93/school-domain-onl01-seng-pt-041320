@@ -1,2 +1,6 @@
 # code here!
-class
+class School 
+  
+  
+  
+end 
